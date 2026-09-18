@@ -1,0 +1,12 @@
+ms-swift==4.5.3
+transformers>=4.57,<5
+qwen_vl_utils>=0.0.14
+peft==0.20.0
+accelerate
+datasets
+safetensors
+tensorboard
+matplotlib
+pillow
+tqdm
+numpy
